@@ -1,3 +1,3 @@
-# mAIndo
+
 
 ![OnePager](/OnePager.png)
